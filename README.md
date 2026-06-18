@@ -2,6 +2,8 @@
 
 🚀 End-to-End Machine Learning project to predict whether a loan applicant is a GOOD or BAD credit risk using Python and Streamlit.
 
+🌐 Live App: https://loan-risk-predictor-app.streamlit.app
+
 ---
 
 ## 📌 Project Overview
