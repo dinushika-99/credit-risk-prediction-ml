@@ -11,6 +11,8 @@
 This project builds a **loan credit risk prediction system** using the German Credit Dataset.  
 It analyses customer financial behaviour and predicts whether giving a loan is safe or risky.
 
+📊 Dataset: https://www.kaggle.com/datasets/kabure/german-credit-data-with-risk
+
 ✅ Includes:
 - Data Cleaning & Preprocessing  
 - Exploratory Data Analysis (EDA)  
